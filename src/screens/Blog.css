@@ -1,0 +1,28 @@
+
+
+
+.blogs-pane {
+    max-width: 360px;
+    margin: 20px auto 20px 20px;
+}
+
+.blog-wrapper {
+    margin: 50px 0;
+}
+.blog-wrapper .author {
+    color: blue;
+}
+.blog-wrapper .title {
+    font-weight: 700;
+    font-size: 15px;
+}
+.blog-wrapper .time {
+    font-style: italic;
+    font-size: 12px;
+    text-align: right;
+    color: #888;
+}
+.blog-wrapper .content {
+    margin-left: 20px;
+}
+
